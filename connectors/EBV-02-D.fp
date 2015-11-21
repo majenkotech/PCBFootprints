@@ -1,0 +1,26 @@
+
+Element["" "" "" "" 1000.00mil 4000.00mil 0.0000 0.0000 0 100 ""]
+(
+	rin[-100.00mil 0.0000 90.00mil 30.00mil 95.00mil 50.00mil "" "1" ""]
+	Pin[100.00mil 0.0000 90.00mil 30.00mil 95.00mil 50.00mil "" "2" ""]
+	ElementLine [-200.00mil -150.00mil 200.00mil -150.00mil 5.91mil]
+	ElementLine [-200.00mil -100.00mil 200.00mil -100.00mil 5.91mil]
+	ElementLine [-200.00mil 150.00mil 200.00mil 150.00mil 5.91mil]
+	ElementLine [-125.00mil -200.00mil -175.00mil -150.00mil 5.91mil]
+	ElementLine [-200.00mil -200.00mil -200.00mil 200.00mil 5.91mil]
+	ElementLine [-200.00mil -200.00mil 200.00mil -200.00mil 5.91mil]
+	ElementLine [200.00mil -200.00mil 200.00mil 200.00mil 5.91mil]
+	ElementLine [200.00mil 200.00mil -200.00mil 200.00mil 5.91mil]
+	ElementLine [-75.00mil -200.00mil -25.00mil -150.00mil 5.91mil]
+	ElementLine [75.00mil -200.00mil 25.00mil -150.00mil 5.91mil]
+	ElementLine [125.00mil -200.00mil 175.00mil -150.00mil 5.91mil]
+	ElementArc [-100.00mil 0.0000 50.00mil 50.00mil 180 90 5.91mil]
+	ElementArc [-100.00mil 0.0000 50.00mil 50.00mil 90 90 5.91mil]
+	ElementArc [-100.00mil 0.0000 50.00mil 50.00mil 0 90 5.91mil]
+	ElementArc [-100.00mil 0.0000 50.00mil 50.00mil 270 90 5.91mil]
+	ElementArc [100.00mil 0.0000 50.00mil 50.00mil 180 90 5.91mil]
+	ElementArc [100.00mil 0.0000 50.00mil 50.00mil 90 90 5.91mil]
+	ElementArc [100.00mil 0.0000 50.00mil 50.00mil 0 90 5.91mil]
+	ElementArc [100.00mil 0.0000 50.00mil 50.00mil 270 90 5.91mil]
+
+	)

@@ -1,0 +1,27 @@
+
+Element["" "" "D1" "" 25.0000mm 19.0000mm 0.0000 0.0000 0 100 ""]
+(
+	Pin[-400.00mil 300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "E1" "1" "edge2"]
+	Pin[-300.00mil 300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "D1" "2" "edge2"]
+	Pin[-200.00mil 300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "C1" "3" "edge2"]
+	Pin[-100.00mil 300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "P1" "4" "edge2"]
+	Pin[0.0000 300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "E2" "5" "edge2"]
+	Pin[100.00mil 300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "D2" "6" "edge2"]
+	Pin[200.00mil 300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "G2" "7" "edge2"]
+	Pin[300.00mil 300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "C2" "8" "edge2"]
+	Pin[400.00mil 300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "P2" "9" "edge2"]
+	Pin[400.00mil -300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "B2" "10" "edge2"]
+	Pin[300.00mil -300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "A2" "11" "edge2"]
+	Pin[200.00mil -300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "F2" "12" "edge2"]
+	Pin[100.00mil -300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "CMN2" "13" "edge2"]
+	Pin[0.0000 -300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "CMN1" "14" "edge2"]
+	Pin[-100.00mil -300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "B1" "15" "edge2"]
+	Pin[-200.00mil -300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "A1" "16" "edge2"]
+	Pin[-300.00mil -300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "G1" "17" "edge2"]
+	Pin[-400.00mil -300.00mil 60.00mil 0.2800mm 62.00mil 38.00mil "F1" "18" "edge2"]
+	ElementLine [-12.4910mm -9.5090mm -12.5000mm 9.5000mm 0.1500mm]
+	ElementLine [-12.5000mm 9.5000mm 12.5000mm 9.5000mm 0.1500mm]
+	ElementLine [12.5000mm 9.5000mm 12.4910mm -9.5090mm 0.1500mm]
+	ElementLine [492.00mil -9.5090mm -492.00mil -9.5090mm 0.1500mm]
+
+	)
